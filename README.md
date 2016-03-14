@@ -72,6 +72,9 @@ tutorial to add a Google Could Endpoints module to your project:
 
 https://github.com/GoogleCloudPlatform/gradle-appengine-templates/tree/master/HelloEndpoints
 
+OAuth client ID
+214936395416-qq08uumad9m7ara4epb98ad6154emkl9.apps.googleusercontent.com
+
 Introduce a project dependency between your Java library and your GCE module,
 and modify the GCE starter code to pull jokes from your Java library. Create
 an Async task to retrieve jokes. Make the button kick off a task to retrieve a
